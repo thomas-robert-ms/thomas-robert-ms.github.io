@@ -32,4 +32,5 @@ RUN gem install bundler:2.3.26
 RUN bundle install
 
 # Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
+# Command to serve the Jekyll site
+CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--force_polling", "--livereload", "--config", "_config.yml,_config_docker.yml"]
