@@ -1,0 +1,17 @@
+# ADD THIS inside your existing collections: block in _config.yml
+# (alongside talks, publications, etc.)
+
+  activities:
+    output: true
+    permalink: /:collection/:path/
+
+# AND ADD THIS inside your existing defaults: block
+# (copy the pattern from the talks entry)
+
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: talk
+      author_profile: true
+      share: true

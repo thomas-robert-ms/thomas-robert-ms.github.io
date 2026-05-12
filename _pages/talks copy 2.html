@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Orals</h2>
+
+{% assign talks = site.talks | where: "category", "talk" | sort: "date" | reverse %}
+{% for post in talks %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Posters</h2>
+
+{% assign talks = site.talks | where: "category", "poster" | sort: "date" | reverse %}
+{% for post in talks %}
+  {% include archive-single-talk.html %}
+{% endfor %}

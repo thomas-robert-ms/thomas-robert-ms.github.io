@@ -1,0 +1,22 @@
+---
+layout: archive
+title: ""
+permalink: /activities/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2 class="section-heading">Awards</h2>
+
+{% assign awards_activities = site.activities | where: "type", "award" | sort: "date" | reverse %}
+{% for post in awards_activities %}
+  {% include archive-single-activities.html %}
+{% endfor %}
+
+<h2 class="section-heading">Activities</h2>
+
+{% assign activities_activities = site.activities | where: "type", "activity" | sort: "date" | reverse %}
+{% for post in activities_activities %}
+  {% include archive-single-activities.html %}
+{% endfor %}
