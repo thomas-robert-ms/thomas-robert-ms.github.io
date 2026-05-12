@@ -186,7 +186,7 @@ redirect_from:
 <p class="about-eyebrow">University of Mons &middot; FRIA Fellow &middot; F.R.S.–FNRS</p>
 
 <p class="about-tagline">
-  Currently FRIA PhD student in the Organic Synthesis and Mass Spectrometry (S²MOs) lab under the supervision of Prof. Pascal Gerbaux, I'm open to post--doc opportunities ! </br> Of the different techniques I have used so far, the ones that fascinate me the most are advanced mass spectrometry, high-resolution ion mobility, and liquid chromatography.
+  Currently FRIA PhD student in the Organic Synthesis and Mass Spectrometry (S²MOs) lab under the supervision of Prof. Pascal Gerbaux, I'm open to post-doc opportunities ! <br> Of the different techniques I have used so far, the ones that fascinate me the most are advanced mass spectrometry, high-resolution ion mobility, and liquid chromatography.
 </p>
 
 <p class="about-section-label">Education</p>
