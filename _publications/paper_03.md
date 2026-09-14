@@ -8,7 +8,7 @@ date: 2026-05-08
 venue: 'Journal of Materials Chemistry C'
 paperurl: 'https://doi.org/10.1039/D6TC00861E'
 bibtexurl: 'https://thomas-robert-ms.github.io/files/paper_03.bib'
-imgurl: 
+imgurl: /files/paper_03_toc.png
 citation: 'Gerbaux, P.; Henrard, G.; Robert, T.; Tassignon, B.; de Winter, J.; Cornil, J. On the Photo and Back Isomerization of Phenylazothiazoles Anchored onto Peptoids : One Step Further toward Visible-Light Photoswitches for Solar Energy Harnessing. J Mater Chem C Mater 2026.'
 ---
 This paper is part of the themed collection "Journal of Materials Chemistry C HOT Papers" !
