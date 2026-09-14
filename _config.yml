@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Thomas Robert | PhD student in Organic Chemistry and Mass Spectrometry | UMONS" # Update this with your name or the name of your site
+title                    : "Thomas Robert" # Update this with your name or the name of your site
 title_separator          : "-"
 name                     : &name "Thomas Robert" # Update this with your name, this is used in the author profile and as a default for the title if not set
 description              : &description "Thomas Robert is a FRIA PhD student at the University of Mons (UMONS), Belgium, working on organic chemistry, ion mobility spectrometry, liquid chromatography, high-resolution mass spectrometry, and gas-phase photoisomerization."   # Update this with a general description of your site, this is the default if not overridden by a page
