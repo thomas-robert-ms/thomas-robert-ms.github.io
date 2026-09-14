@@ -198,7 +198,7 @@ redirect_from:
     <p class="tl-period">2022 – Present</p>
     <p class="tl-degree">PhD in Organic Chemistry &amp; Mass Spectrometry</p>
     <p class="tl-inst">University of Mons, Belgium &middot; Supervisor: Prof. Pascal Gerbaux</p>
-    <p class="tl-thesis">On the determination of the activation energies for the thermal relaxation of photoisomers by state-of-the-art mass spectrometry methods.</p>
+    <p class="tl-thesis">Determination of the activation energies for the thermal relaxation of photoisomers by state-of-the-art mass spectrometry methods.</p>
     <span class="tl-badge badge-teal">FRIA Doctoral Fellowship</span>
   </div>
 
